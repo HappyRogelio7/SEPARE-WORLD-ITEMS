@@ -8,4 +8,4 @@ You should not modify the add-in in any way. You should not call that the plug-i
 You can use the plugin on any type of server
 This is the end of the end user agreement.  }
 
-More information: 
+More information: https://github.com/HappyRogelio7/SEPARE-WORLD-ITEMS
